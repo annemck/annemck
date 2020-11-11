@@ -11,7 +11,7 @@ You'll find a list of the technologies and languages I've used at various points
 
 <br>
 
-Get in <a href="https://www.linkedin.com/in/anne-mckendry/">contact with me</a> via <a href="https://www.linkedin.com/in/anne-mckendry/"><img alt="medium" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img alt="medium" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 <br>
 

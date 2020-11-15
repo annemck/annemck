@@ -40,6 +40,7 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 <a href="https://github.com/annemck/github-readme-stats">
    <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/pin/?username=annemck&repo=munro_tracker" />
 </a>
+<!--START_SECTION:activity-->
 
 <br>
 <br>

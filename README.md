@@ -41,12 +41,10 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
    <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/pin/?username=annemck&repo=munro_tracker" />
 </a>
 
-<p style="max-width:150px">
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
 2. 💪 Opened PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
 <!--END_SECTION:activity-->
-</p>
 
 <br>
 <br>

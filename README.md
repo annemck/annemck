@@ -42,7 +42,7 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 #### Currently Working On:
 
 <a href="https://github.com/annemck/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/pin/?username=annemck&repo=munro_tracker" />
+   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/pin/?username=annemck&repo=munro_tracker&hide_border=true" />
 </a>
 
 <br>
@@ -50,11 +50,13 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 ---
 
 <details><summary><b>Recent Activity</b></summary>
+   
+   <br>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
-2. 💪 Opened PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
-<!--END_SECTION:activity-->
+   <!--START_SECTION:activity-->
+   1. 🎉 Merged PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
+   2. 💪 Opened PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
+   <!--END_SECTION:activity-->
 
 </details>
 
@@ -63,10 +65,11 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 ---
 
 <details><summary><b>General Activity</b></summary>
-<a href="https://github.com/annemck/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=true&hide=issues" />
-</a>
-<a href="https://github.com/annemck/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact" />
-</a>
+
+   <a href="https://github.com/annemck/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true" />
+   </a>
+   <a href="https://github.com/annemck/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true" />
+   </a>
 </details>

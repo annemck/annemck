@@ -15,7 +15,7 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 
 <br>
 
-##### Technology Stack:
+#### Technology Stack:
 
 <img align="left" alt="css" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="express" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
@@ -35,7 +35,7 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 <br>
 <br>
 
-##### Currently Working On:
+#### Currently Working On:
 
 <a href="https://github.com/annemck/github-readme-stats">
    <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/pin/?username=annemck&repo=munro_tracker" />
@@ -45,21 +45,28 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 <br>
 <br>
 
-##### Recent Activity:
+---
+
+<details><summary><b>Recent Activity</b></summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
 2. 💪 Opened PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
 <!--END_SECTION:activity-->
 
+</details>
+
 <br>
 <br>
 <br>
 
-##### General Activity:
+---
+
+<details><summary><b>General Activity</b></summary>
 <a href="https://github.com/annemck/github-readme-stats">
   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=true&hide=issues" />
 </a>
 <a href="https://github.com/annemck/github-readme-stats">
   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact" />
 </a>
+</details>

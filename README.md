@@ -15,6 +15,8 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 
 <br>
 
+---
+
 #### Technology Stack:
 
 <img align="left" alt="css" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -35,14 +37,14 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 <br>
 <br>
 
+---
+
 #### Currently Working On:
 
 <a href="https://github.com/annemck/github-readme-stats">
    <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/pin/?username=annemck&repo=munro_tracker" />
 </a>
 
-<br>
-<br>
 <br>
 
 ---
@@ -56,8 +58,6 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 
 </details>
 
-<br>
-<br>
 <br>
 
 ---

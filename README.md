@@ -46,6 +46,12 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 2. 💪 Opened PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
 <!--END_SECTION:activity-->
 
+<p style="align:center">
+   <!--START_SECTION:activity-->
+</p>
+
+<img href="test" src="<!--START_SECTION:activity-->" />
+
 <br>
 <br>
 

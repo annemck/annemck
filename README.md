@@ -37,8 +37,8 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 
 
 <a href="https://github.com/annemck/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=annemck&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide=issues" />
+  <img align="center" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&hide=issues" />
 </a>
 <a href="https://github.com/annemck/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annemck&langs_count=10&hide_border=true&include_all_comits=true&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&hide_border=true&include_all_comits=true&count_private=true&layout=compact" />
 </a>

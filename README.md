@@ -60,7 +60,7 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
    
    
    <a href="https://github.com/annemck/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=annemck&layout=default" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=annemck&layout=compact" />
    </a>
 
 </details>

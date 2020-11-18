@@ -60,7 +60,7 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
    
    
    <a href="https://github.com/annemck/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=annemck&v=2&layout=compact&hide_border=true" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=annemck&v=2&layout=compact&hide_border=true" />
    </a>
 
 </details>
@@ -72,9 +72,9 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
 <details><summary><b>General Activity</b></summary>
 
    <a href="https://github.com/annemck/github-readme-stats">
-     <img align="left" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true" />
+     <img align="center" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true" />
    </a>
    <a href="https://github.com/annemck/github-readme-stats">
-     <img align="right" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true" />
+     <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true" />
    </a>
 </details>

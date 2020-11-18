@@ -59,7 +59,7 @@ Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img al
    <!--END_SECTION:activity-->
    
    
-   <img src="https://github.com/annemck/annemck/blob/master/images/codeStats.svg" alt="Wakatime Usage"/>
+   [annemck's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=annemck)
 
 </details>
 

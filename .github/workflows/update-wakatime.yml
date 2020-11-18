@@ -3,9 +3,11 @@ name: Update README with my latest coding stats
 on:
   schedule:
     - cron: '0 10 * * *'
+  workflow_dispatch:
+      
 
 jobs:
-  update-Readme:
+  build:
     name: Automatically update my README  
     runs-on: ubuntu-latest
     steps:
@@ -15,3 +17,4 @@ jobs:
           SHOW_MONTHLY: true
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_ACTION: ${{ github.action }}
+          

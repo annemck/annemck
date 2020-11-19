@@ -11,7 +11,7 @@ You'll find a list of the technologies and languages I've used at various points
 
 <br>
 
-Connect with me via <a href="https://www.linkedin.com/in/anne-mckendry/"><img alt="medium" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+Find me on <a href="https://www.linkedin.com/in/anne-mckendry/"><img alt="LinkedIn" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <img alt="Dev.to" height="25px" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> </a> <a href="https://wakatime.com/@annemck"> <img alt="Wakatime" height="25px" src="https://img.shields.io/static/v1?message=WakaTime&logo=wakatime&logoColor=black&label=%20&color=white" /> </a>
 
 <br>
 

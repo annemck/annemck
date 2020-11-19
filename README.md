@@ -76,4 +76,10 @@ Find me on
 <a href="https://github.com/annemck/github-readme-stats">
    <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true"/>
 </a>
+<a href="https://wakatime.com/@annemck">
+   <img align="center" height="250px" src="https://wakatime.com/share/@annemck/1ff83ec1-df62-4b90-97c9-c36c85d0da65.svg"/>
+</a>
+<a href="https://wakatime.com/@annemck">
+   <img align="center" height="250px" src="https://wakatime.com/share/@annemck/9c694bf2-67f7-4d78-bdd6-943ae632faed.svg"/>
+</a>
 </details>

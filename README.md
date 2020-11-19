@@ -55,11 +55,11 @@ Find me on
 <details><summary><b>Recent Activity</b></summary>
    
 <a href="https://github.com/annemck/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=false&hide=issues&hide_border=true"/>
+   <img align="center" width="500px" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=false&hide=issues&hide_border=true"/>
 </a>
    
-<a href="https://github.com/annemck/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=annemck&v=2&layout=compact&hide_border=true" />
+<a href="https://wakatime.com/@annemck">
+   <img align="center" width="400px" src="https://wakatime.com/share/@annemck/2375ace0-209a-4660-be4a-88d5b799f1a1.svg" />
 </a>
 
 </details>
@@ -71,15 +71,15 @@ Find me on
 <details><summary><b>General Activity</b></summary>
 
 <a href="https://github.com/annemck/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true"/>
+   <img align="center" width="500px" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true"/>
 </a>
 <a href="https://github.com/annemck/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true"/>
+   <img align="center" width="400px" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true"/>
 </a>
 <a href="https://wakatime.com/@annemck">
-   <img align="center" height="250px" src="https://wakatime.com/share/@annemck/1ff83ec1-df62-4b90-97c9-c36c85d0da65.svg"/>
+   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/1ff83ec1-df62-4b90-97c9-c36c85d0da65.svg"/>
 </a>
 <a href="https://wakatime.com/@annemck">
-   <img align="center" height="250px" src="https://wakatime.com/share/@annemck/9c694bf2-67f7-4d78-bdd6-943ae632faed.svg"/>
+   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/9c694bf2-67f7-4d78-bdd6-943ae632faed.svg"/>
 </a>
 </details>

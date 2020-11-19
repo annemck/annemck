@@ -57,10 +57,7 @@ Find me on
    <br>
 
    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
-2. 💪 Opened PR [#1](https://github.com/annemck/annemck/pull/1) in [annemck/annemck](https://github.com/annemck/annemck)
    <!--END_SECTION:activity-->
-   
    
    <a href="https://github.com/annemck/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=annemck&v=2&layout=compact&hide_border=true" />

@@ -11,7 +11,10 @@ You'll find a list of the technologies and languages I've used at various points
 
 <br>
 
-Find me on <a href="https://www.linkedin.com/in/anne-mckendry/"><img alt="LinkedIn" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://dev.to/annemck"> <img alt="Dev.to" height="25px" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /> </a> <a href="https://wakatime.com/@annemck"> <img alt="Wakatime" height="25px" src="https://img.shields.io/static/v1?message=WakaTime&logo=wakatime&logoColor=black&label=%20&color=white" /> </a>
+Find me on
+<a href="https://www.linkedin.com/in/anne-mckendry/"><img alt="LinkedIn" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://dev.to/annemck"><img alt="Dev.to" height="25px" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://wakatime.com/@annemck"><img alt="Wakatime" height="25px" src="https://img.shields.io/static/v1?message=WakaTime&logo=wakatime&logoColor=black&label=%20&color=white" /></a>
 
 <br>
 
@@ -71,10 +74,10 @@ Find me on <a href="https://www.linkedin.com/in/anne-mckendry/"><img alt="Linked
 
 <details><summary><b>General Activity</b></summary>
 
-   <a href="https://github.com/annemck/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true" />
-   </a>
-   <a href="https://github.com/annemck/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true" />
-   </a>
+<a href="https://github.com/annemck/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api?username=annemck&count_private=true&show_icons=true&include_all_commits=true&hide=issues&hide_border=true"/>
+</a>
+<a href="https://github.com/annemck/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true"/>
+</a>
 </details>

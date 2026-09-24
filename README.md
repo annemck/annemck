@@ -1,13 +1,12 @@
-### Hi there I'm Anne👋
+### Hi there, I'm Anne👋
 
-#### I'm a junior developer who has officially been coding for just over a year and a half...
-...but technically I've been coding on and off for the last five years.
+#### I'm a software developer who has a pretty eclectic background (I can answer a common job interview question with an answer involving a dragon - I've yet to meet another software developer who can claim that!)
 
-I'm still figuring out my preferred languages and frameworks to focus on, whether I prefer making full-stack applications or focussing more on front or back-end work. Due to this I have a good breadth of knowledge of several different Object-Oriented languages. I'm most familiar with SQL (especially Oracle dialect, though I also use PostgreSQL fairly regularly) and PL/SQL. I've also used some low-code environments alongside databases - specifically Oracle APEX.
+When I am coding, it's mostly in SQL. I've used Oracle SQL (including PL/SQL), MS SQL (inlcuding T-SQL), MySQL and a bit of PostgreSQL. I consider myself SQL dialect agnostic for the most part. If it's a SQL variant, I'll figure it out pretty quick!
 
-Much of what you'll find on my Github are homework assignments from a software development bootcamp. Among them you'll also spot the bootcamp projects. Slowly I'm adding more of my own personal projects, starting with a munro tracker that you can add friends to.
+Outside of SQL, my professional career has mostly been in low-code. That started thanks to Oracle APEX before moving on to OutSystems and a bit of playing around with Power Platform and SharePoint. Even my current job uses their proprietary low-code software. So I consider it yet another thing I can turn my hand to. So within that low-code and SQL sphere, I get to play around with a bit of JavaScript on the side. Nothing major, I couldn't write anything too complex these days, but it keeps my hand in!
 
-You'll find a list of the technologies and languages I've used at various points in my career below. Some of them I'm more experienced with than others. I'd consider myself to still be learning all of them. However you can ask me in ten years and that would likely still be my answer!
+Unfortunately, my GitHub doesn't link well to work accounts, so you won't see many of my skills on here these days. I do have plans to mess about with GitHub pages as I try playing around with Tableau for data visualisation, so hopefully that will change.
 
 <br>
 
@@ -20,37 +19,6 @@ Find me on
 
 ---
 
-#### Technology Stack:
-
-<img align="left" alt="css" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="express" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="html" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="java" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="javascript" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="jquery" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-<img align="left" alt="node" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="postgres" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="python" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="react" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="ruby" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" alt="sql" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="vue" width="35px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-<br>
-<br>
-<br>
-
----
-
-#### Currently Working On:
-
-<a href="https://github.com/annemck/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.annemck.vercel.app/api/pin/?username=annemck&repo=fake_trello&hide_border=true" />
-</a>
-
-<br>
-
----
 
 <details><summary><b>Recent Activity</b></summary>
    

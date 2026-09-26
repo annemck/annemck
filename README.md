@@ -27,7 +27,7 @@ Find me on
 </a>
    
 <a href="https://wakatime.com/@annemck">
-   <img align="center" width="400px" src="https://wakatime.com/share/@annemck/2375ace0-209a-4660-be4a-88d5b799f1a1.svg" />
+   <img align="center" width="400px" src="<figure><embed src="https://wakatime.com/share/@annemck/a5c26b5b-b599-4239-8fda-581894db5f53.svg"></embed></figure>/>
 </a>
 
 </details>

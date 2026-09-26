@@ -27,7 +27,10 @@ Find me on
 </a>
    
 <a href="https://wakatime.com/@annemck">
-   <img align="center" width="400px" src="<figure><embed src="https://wakatime.com/share/@annemck/a5c26b5b-b599-4239-8fda-581894db5f53.svg"></embed></figure>/>
+   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/1ff83ec1-df62-4b90-97c9-c36c85d0da65.svg"/>
+</a>
+<a href="https://wakatime.com/@annemck">
+   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/a5c26b5b-b599-4239-8fda-581894db5f53.svg"/>
 </a>
 
 </details>

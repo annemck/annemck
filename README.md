@@ -43,6 +43,8 @@ Find me on
 </a>
 
 <br>
+<br>
+<br>
 <a href="https://wakatime.com/@annemck">
    <img align="center" width="450px" src="https://wakatime.com/share/@annemck/686c7f99-0a32-45a0-9e3d-4c682196fd81.svg"/>
 </a>

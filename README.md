@@ -30,7 +30,6 @@ Find me on
    <img align="center" width="450px" src="https://wakatime.com/share/@annemck/a5c26b5b-b599-4239-8fda-581894db5f53.svg"/>
 </a>
 </details>
-<br>
 
 ---
 
@@ -43,6 +42,7 @@ Find me on
    <img align="center" width="400px" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true"/>
 </a>
 
+<br>
 <a href="https://wakatime.com/@annemck">
    <img align="center" width="450px" src="https://wakatime.com/share/@annemck/686c7f99-0a32-45a0-9e3d-4c682196fd81.svg"/>
 </a>

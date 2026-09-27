@@ -42,13 +42,11 @@ Find me on
 <a href="https://github.com/annemck/github-readme-stats">
    <img align="center" width="400px" src="https://github-readme-stats.annemck.vercel.app/api/top-langs/?username=annemck&langs_count=10&include_all_comits=true&count_private=true&layout=compact&hide_border=true"/>
 </a>
-<a href="https://wakatime.com/@annemck">
-   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/1ff83ec1-df62-4b90-97c9-c36c85d0da65.svg"/>
-</a>
-<a href="https://wakatime.com/@annemck">
-   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/9c694bf2-67f7-4d78-bdd6-943ae632faed.svg"/>
-</a>
+
 <a href="https://wakatime.com/@annemck">
    <img align="center" width="450px" src="https://wakatime.com/share/@annemck/686c7f99-0a32-45a0-9e3d-4c682196fd81.svg"/>
+</a>
+<a href="https://wakatime.com/@annemck">
+   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/4324c91b-c15f-4c74-b5d7-15a6d25a29a1.svg"/>
 </a>
 </details>

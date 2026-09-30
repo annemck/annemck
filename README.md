@@ -27,7 +27,7 @@ Find me on
 </a>
    
 <a href="https://wakatime.com/@annemck">
-   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/a5c26b5b-b599-4239-8fda-581894db5f53.svg"/>
+   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/a761aff3-f43d-4482-9d91-d950fe565972.svg"/>
 </a>
 </details>
 
@@ -46,7 +46,7 @@ Find me on
 <br>
 <br>
 <a href="https://wakatime.com/@annemck">
-   <img align="center" width="450px" src="https://wakatime.com/share/@annemck/686c7f99-0a32-45a0-9e3d-4c682196fd81.svg"/>
+   <img align="center" width="450px" src="[https://wakatime.com/share/@annemck/686c7f99-0a32-45a0-9e3d-4c682196fd81.svg](https://wakatime.com/share/@annemck/e86ddd04-ea6a-414d-b875-fc6afe8f7274.svg)"/>
 </a>
 <a href="https://wakatime.com/@annemck">
    <img align="center" width="450px" src="https://wakatime.com/share/@annemck/4324c91b-c15f-4c74-b5d7-15a6d25a29a1.svg"/>

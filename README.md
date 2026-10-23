@@ -2,11 +2,16 @@
 
 #### I'm a software developer who has a pretty eclectic background (I can answer a common job interview question with an answer involving a dragon - I've yet to meet another software developer who can claim that!)
 
-When I am coding, it's mostly in SQL. I've used Oracle SQL (including PL/SQL), MS SQL (inlcuding T-SQL), MySQL and a bit of PostgreSQL. I consider myself SQL dialect agnostic for the most part. If it's a SQL variant, I'll figure it out pretty quick!
+Most of my professional development experience has involved SQL, data processing and low-code development. I've worked with Oracle SQL (including PL/SQL), Microsoft SQL Server (including T-SQL), MySQL and a bit of PostgreSQL. I consider myself fairly SQL dialect agnostic — if it's a variant of SQL, I'm generally going to pick it up very quickly!
 
-Outside of SQL, my professional career has mostly been in low-code. That started thanks to Oracle APEX before moving on to OutSystems and a bit of playing around with Power Platform and SharePoint. Even my current job uses their proprietary low-code software. So I consider it yet another thing I can turn my hand to. So within that low-code and SQL sphere, I get to play around with a bit of JavaScript on the side. Nothing major, I couldn't write anything too complex these days, but it keeps my hand in!
+I've worked with SQL for ETL, data reconciliation, reporting and general development across the construction and finance sectors. Outside of SQL, I've done some low-code work, starting in Oracle APEX before moving on to OutSystems and a bit of playing around with Power Platform and SharePoint. Even my current job uses their proprietary low-code software. And within it I get to tinker with a bit of JavaScript and JQuery too!
 
-Unfortunately, my GitHub doesn't link well to work accounts, so you won't see many of my skills on here these days. I do have plans to mess about with GitHub pages as I try playing around with Tableau for data visualisation, so hopefully that will change.
+I've even done a bit of SQL teaching, which was something I enjoyed greatly.
+
+Through my then workplace, I taught several Introduction to SQL and Data courses, live and online, covering the basics of relational databases, simple MySQL and simple data visualisation. I really enjoy helping people understand concepts they'd found difficult. I even tweaked or added extra slides to the ones we were given if I thought it'd help the students understand a bit better! More work for me, but worth it to see that 'Eureka!' moment when it clicked.
+
+
+Unfortunately, most of my work is in private work repositories these days, so GitHub doesn't display the breadth of SQL I use daily. I do have plans to mess about with GitHub pages as I try playing around with Tableau for data visualisation, so hopefully that will start being reflected here soon!
 
 <br>
 
